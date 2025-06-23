@@ -1,0 +1,27 @@
+export const links=[
+  {
+    title:'Home',
+    url:'#',
+    button:false
+  },
+  {
+    title:'About',
+    url:'#',
+    button:false
+  },
+  {
+    title:'Services',
+    url:'#',
+    button:false
+  },
+  {
+    title:'Contact',
+    url:'#',
+    button:false
+  },
+    {
+    title:'Login',
+    url:'#',
+    button:true
+  },
+]
